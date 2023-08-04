@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "c43ad338-7e52-4ee3-bab7-f204cc6f6b80",
+            "collectionId": "Latvian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Latvian/Latvian_Fable/c43ad338-7e52-4ee3-bab7-f204cc6f6b80/c43ad338-7e52-4ee3-bab7-f204cc6f6b80_lv_Male.mp4"
+        },
+        {
+            "id": "e38b3b01-baac-49c8-b0f7-c458167952f9",
+            "collectionId": "Latvian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Latvian/Latvian_Fable/e38b3b01-baac-49c8-b0f7-c458167952f9/e38b3b01-baac-49c8-b0f7-c458167952f9_lv_Male.mp4"
+        },
+        {
+            "id": "37bf1ef6-4187-49a7-82ee-680ffa510169",
+            "collectionId": "Latvian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Latvian/Latvian_Fable/37bf1ef6-4187-49a7-82ee-680ffa510169/37bf1ef6-4187-49a7-82ee-680ffa510169_lv_Male.mp4"
+        },
+        {
+            "id": "2125d450-20ef-4aff-baaf-39bc5aa4372c",
+            "collectionId": "Latvian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Latvian/Latvian_Fable/2125d450-20ef-4aff-baaf-39bc5aa4372c/2125d450-20ef-4aff-baaf-39bc5aa4372c_lv_Male.mp4"
+        },
+        {
+            "id": "c9a123d2-24be-417e-a4ff-295384569219",
+            "collectionId": "Latvian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Latvian/Latvian_Fable/c9a123d2-24be-417e-a4ff-295384569219/c9a123d2-24be-417e-a4ff-295384569219_lv_Male.mp4"
+        }
+    ]
+}
